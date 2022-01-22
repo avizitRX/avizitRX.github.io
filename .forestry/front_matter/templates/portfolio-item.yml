@@ -66,3 +66,5 @@ fields:
     schema:
       format: markdown
   label: Long Description
+pages:
+- content/portfolio/test-portfolio.md
