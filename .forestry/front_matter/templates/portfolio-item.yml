@@ -22,8 +22,9 @@ fields:
     maxSize: 64
   label: Thumbnail
 - name: service
-  type: tag_list
-  default: []
+  type: text
+  config:
+    required: false
   label: Service Tags
 - name: client
   type: text
