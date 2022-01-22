@@ -1,4 +1,0 @@
-+++
-
-+++
-![](/uploads/case-details.png)
