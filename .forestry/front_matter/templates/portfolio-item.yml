@@ -2,3 +2,5 @@
 label: Portfolio Item
 hide_body: false
 fields: []
+pages:
+- content/portfolio/Test Portfolio.md
