@@ -10,4 +10,18 @@ thumbnail = "/uploads/case-details.png"
 title = "Test Portfolio"
 
 +++
-This is the white board.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+
+  nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+
+  voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+
+  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+
+![](/uploads/case-details.png)
+
+  nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+
+  voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+
+  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor.
