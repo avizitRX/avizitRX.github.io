@@ -1,0 +1,92 @@
+baseURL = "https://avizitrx.github.io/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "avizitRX - Wordpress Expert"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Service"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Skills"
+url = "#skills"
+weight = 4
+[[menu.main]]
+name = "Portfolio"
+url = "#portfolio"
+weight = 5
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 6
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "Frequently Asked Questions"
+url = "#"
+weight = 1
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "#"
+weight = 2
+
+[params]
+blogPageURL = "blog"
+contactLink = "https://fiverr.com/avizitrx"
+copyright = "All Rights Reserved. Copyright © Avizit Roy 2022"
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = ""
+email = "avizitrx@protonmail.com"
+openingHours = ""
+phone = ""
+website = "http://avizitrx.github.io"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-facebook-square"
+url = "https://facebook.com/avizitRX"
+weight = 1
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/avizitRX"
+weight = 2
+[[params.social]]
+icon = "fa-instagram-square"
+url = "https://instagram.com/avizitrx"
+weight = 3
+[[params.social]]
+icon = "fa-linkedin"
+url = "https://linkedin.com/in/avizitrx"
+weight = 4
+[[params.social]]
+icon = "fa-dribbble-square"
+url = "https://dribbble.com/avizitRX"
+weight = 5
+[[params.social]]
+icon = "fa-behance-square"
+url = "https://behance.net/avizitRX"
+weight = 6
+[[params.social]]
+icon = "fa-github-square"
+url = "https://github.com/avizitRX"
+weight = 7

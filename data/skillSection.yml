@@ -1,0 +1,20 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why hire me for your next project?
+
+  My goal is to build websites focused on Professional Design, SEO, Security and Speed. I always
+  ensure my clients' websites to stand out in the competition.
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: Theme Customization
+    percent: 90
+  - title: Page Builders
+    percent: 85
+  - title: Search Engine Optimization
+    percent: 75
+  - title: Wordpress Speed Optimization
+    percent: 80

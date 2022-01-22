@@ -1,0 +1,42 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Development Services
+service:
+  - content: >
+      #### UI/UX Design 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/ui.svg
+  - content: >
+      #### Premium Wordpress Website 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et.
+    image: images/service/wordpress.svg
+  - content: >
+      #### Theme Customization 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/customization.svg
+  - content: >
+      #### Landing Page
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/ui.svg
+  - content: >
+      #### Search Engine Optimization
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et.
+    image: images/service/seo.svg
+  - content: >
+      #### Wordpress Security
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/security.svg

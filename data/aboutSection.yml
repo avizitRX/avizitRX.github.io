@@ -1,0 +1,15 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About Me
+content: >
+  ### I design and build WordPress sites.
+
+  I love to play with WordPress and UI/UX Design while being focused on Responsiveness, SEO, Security, and Speed. 
+  I always try my best to make a good UI with the best user experience and ensure my clients' websites stand out in the competition.
+button1Name: Hire Me
+button2Name: 
+button1Target: https://fiverr.com/avizitrx
+button2Target: 
+image: images/about/about-img.jpeg
