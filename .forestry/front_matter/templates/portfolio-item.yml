@@ -58,14 +58,5 @@ fields:
     schema:
       format: markdown
   label: Solution
-- name: long_description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Long Description
 pages:
 - content/portfolio/test-portfolio.md
