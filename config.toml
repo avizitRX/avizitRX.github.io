@@ -63,30 +63,37 @@ pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
+name = "Facebook"
 icon = "fa-facebook-square"
 url = "https://facebook.com/avizitRX"
 weight = 1
 [[params.social]]
+name = "Twitter"
 icon = "fa-twitter-square"
 url = "https://twitter.com/avizitRX"
 weight = 2
 [[params.social]]
+name = "Instagram"
 icon = "fa-instagram-square"
 url = "https://instagram.com/avizitrx"
 weight = 3
 [[params.social]]
+name = "LinkedIn"
 icon = "fa-linkedin"
 url = "https://linkedin.com/in/avizitrx"
 weight = 4
 [[params.social]]
+name = "Dribbble"
 icon = "fa-dribbble-square"
 url = "https://dribbble.com/avizitRX"
 weight = 5
 [[params.social]]
+name = "Behance"
 icon = "fa-behance-square"
 url = "https://behance.net/avizitRX"
 weight = 6
 [[params.social]]
+name = "GitHub"
 icon = "fa-github-square"
 url = "https://github.com/avizitRX"
 weight = 7
