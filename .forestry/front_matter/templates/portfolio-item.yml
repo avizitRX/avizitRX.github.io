@@ -58,5 +58,3 @@ fields:
     schema:
       format: markdown
   label: Solution
-pages:
-- content/portfolio/test-portfolio.md
