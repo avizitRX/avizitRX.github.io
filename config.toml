@@ -31,6 +31,10 @@ weight = 6
 
 # Sitemap Menu
 [[menu.sitemap]]
+name = "About Me"
+url = "https://avizitrx.github.io/#about"
+weight = 1
+[[menu.sitemap]]
 name = "Frequently Asked Questions"
 url = "#"
 weight = 1

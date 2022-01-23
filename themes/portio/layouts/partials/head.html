@@ -12,10 +12,12 @@
   {{ "<!-- Font Awesome -->" | safeHTML }}
   <link href="plugins/fontawesome/css/all.min.css" rel="stylesheet">
   <link href="plugins/fontawesome/css/v4-shims.min.css" rel="stylesheet">
-
+  
+  <!--
   {{ "<!-- Magnific Popup -->" | safeHTML }}
   <link rel="stylesheet" href="{{"plugins/magnafic-popup/magnific-popup.css" | absURL }}" />
-
+  -->
+  
   {{ "<!-- Stylesheets -->" | safeHTML }}
   {{ $style := resources.Get "scss/style.scss" | resources.ToCSS | minify }}
   <link href="{{ $style.Permalink }}" rel="stylesheet" />
