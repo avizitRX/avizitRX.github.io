@@ -88,16 +88,22 @@
 		</div>
 	</div>
 </section>
-<script src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.map.APIkey }}&libraries=geometry"></script>
-<script src="{{ "plugins/jQuery/jquery.min.js" | absURL }}"></script>
+
 <script src="{{ "plugins/bootstrap/bootstrap.min.js" | absURL }}"></script>
+<script src="{{ "plugins/jQuery/jquery.min.js" | absURL }}"></script>
+<script src="{{ "plugins/tweenmax/TweenMax.min.js" | absURL }}"></script>
 <script src="{{ "plugins/slick/slick.min.js" | absURL }}"></script>
 <script src="{{ "plugins/waypoint/jquery.waypoints.min.js" | absURL }}"></script>
 <script src="{{ "plugins/magnafic-popup/jquery.magnific-popup.min.js" | absURL }}"></script>
-<script src="{{ "plugins/tweenmax/TweenMax.min.js" | absURL }}"></script>
 <script src="{{ "plugins/imagesloaded/imagesloaded.min.js" | absURL }}"></script>
 <script src="{{ "plugins/masonry/masonry.min.js" | absURL }}"></script>
+
 {{ $formhandler := resources.Get "js/form-handler.js" | minify }}
 <script src="{{ $formhandler.Permalink }}"></script>
+
+<!--
+<script src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.map.APIkey }}&libraries=geometry"></script>
+-->
+
 {{ $script := resources.Get "js/script.js" | minify }}
 <script src="{{ $script.Permalink }}"></script>
