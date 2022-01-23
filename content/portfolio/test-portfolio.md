@@ -2,7 +2,6 @@
 challenge = "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum "
 client = "Edward Furlong"
 date = 2022-01-22T18:00:00Z
-draft = true
 service = "Development, UX Design"
 shortDescription = "Lorem Ipsum "
 solution = "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum "
