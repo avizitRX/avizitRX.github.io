@@ -2,7 +2,6 @@
 challenge = ""
 client = ""
 date = 2022-02-05T18:00:00Z
-draft = true
 service = "Medical, Landing Page, Appointment"
 shortDescription = ""
 solution = ""
