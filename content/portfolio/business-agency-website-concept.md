@@ -2,7 +2,6 @@
 challenge = ""
 client = ""
 date = 2022-05-28T14:00:00Z
-draft = true
 service = "Business, Agency, Homepage"
 shortDescription = ""
 solution = ""
