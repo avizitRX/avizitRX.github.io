@@ -5,7 +5,7 @@ date = 2022-05-28T14:00:00Z
 service = "Business, Agency, Homepage"
 shortDescription = ""
 solution = ""
-thumbnail = "/uploads/agency-website-web.jpg"
+thumbnail = ""
 title = "Business Agency Website Concept"
 
 +++
